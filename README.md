@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shane Angela C. Palicpic</h1>
-<h3 align="center">A passionate Developer from Philippines</h3>
+<h1 align="center">Hello World! 👋, I'm Shane Angela C. Palicpic</h1>
+<h3 align="center">A Software Developer with experience in building full-stack web and mobile applications.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanepalicpic" alt="shanepalicpic" /></a> </p>
+- 🌱 Currently expanding expertise in **GenAI tools, and cloud technologies** to deliver more innovative solutions.
 
-- 👨‍💻 All of my projects are available at [shane-palicpic.vercel.app](shane-palicpic.vercel.app)
+- 👨‍💻 Know more about me and all of my projects are available at [shane-palicpic.vercel.app](shane-palicpic.vercel.app)
 
 - 📫 How to reach me **shanepalicpic@gmail.com**
 
