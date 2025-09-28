@@ -3,7 +3,7 @@
 
 - 🌱 Currently expanding expertise in **GenAI tools, and cloud technologies** to deliver more innovative solutions.
 
-- 👨‍💻 Know more about me and all of my projects are available at [shane-palicpic.vercel.app](shane-palicpic.vercel.app)
+- 👨‍💻 Know more about me and all of my projects: [shane-palicpic.vercel.app](shane-palicpic.vercel.app)
 
 - 📫 How to reach me **shanepalicpic@gmail.com**
 
